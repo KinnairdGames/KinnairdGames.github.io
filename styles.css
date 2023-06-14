@@ -1,0 +1,43 @@
+/* styles.css */
+
+/* Navigation Bar styles */
+nav {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Header styles */
+header {
+  text-align: center;
+  margin: 20px 0;
+}
+
+/* Main Content styles */
+main {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+}
